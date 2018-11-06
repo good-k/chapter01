@@ -12,7 +12,7 @@ public class NHelloWorld2 {
 		
 		// for-loop
 		for(int i = 0; i < count; i++) {
-			System.out.println("Hello World");
+			System.out.println("Hello World22222");
 		}
 		
 		scanner.close();
